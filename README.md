@@ -24,7 +24,6 @@ I'm a Computer Science student at the University of Georgia, passionate about Ar
 * Built AI-powered predictive models using Transformers and Graph Neural Networks (GNNs), increasing model accuracy by 15%.
 * Implemented ML models on AWS Lambda for scalable AI-based fact-checking.
 * Architected a centralized logging system using Kibana and Elasticsearch.
-* Provided Tier 1 IT support to 1,000+ faculty, staff, and students, achieving 80% first contact resolution rate.
 
 ## Let's Connect!
 

@@ -28,7 +28,7 @@ I'm a Computer Science student at the University of Georgia, passionate about Ar
 ## Let's Connect!
 
 * **LinkedIn**: [linkedin.com/in/tushar-mishra-7960b722b](https://www.linkedin.com/in/tushar-mishra-7960b722b)
-* **Portfolio**: [menacehecker.com](https://menacehecker.com)
+* **Portfolio**: [menacehecker.com](https://www.menacehecker.com)
 * **Email**: mtushar2508@gmail.com
 
 Feel free to check out my repositories to see what I've been working on!

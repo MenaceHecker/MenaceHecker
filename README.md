@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of Georgia, passionate about Ar
 
 ## About Me
 
-* **Currently**: A Software Engineer Intern at CRST The Transportation Solution, Inc.
+* **Currently**: Just looking for any Software Engineer roles.
 * **Education**: Pursuing a Bachelor of Science in Computer Science with an emphasis on AI from the University of Georgia, graduating in August 2025.
 * **Interests**: I love diving deep into AI-powered predictive models, optimizing system performance, and architecting scalable cloud solutions.
 * **What I'm building**: Always working on exciting projects! Recently, I've been focused on an AI-powered email management platform (InboxIQ) and a Chrome extension for job seekers using OpenAI GPT (CareerSync).

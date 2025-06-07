@@ -1,4 +1,4 @@
-# Hi there, I'm Tushar! 👋
+#Howdy folks, I am Tushar
 
 I'm a Computer Science student at the University of Georgia, passionate about Artificial Intelligence (yk why) and building impactful software solutions. My journey in tech has led me to explore full-stack development, cloud infrastructure, and the exciting world of machine learning.
 

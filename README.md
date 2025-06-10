@@ -16,7 +16,7 @@ I'm that person who genuinely finds joy in:
 - Wrestling with cloud infrastructure until it behaves
 - Creating full-stack applications that don't fall apart when someone clicks a button
 
-## Current side quest: Deal Radar 🎯
+## Current side quest: Deal Radar 
 
 I'm working on this pretty neat project called Deal Radar , basically teaching a program to be better at finding deals than your aunt who somehow always knows about every sale. It crawls through Amazon, Walmart, and other sites to hunt down the best deals so you don't have to refresh 47 browser tabs.
 
@@ -25,4 +25,4 @@ I'm working on this pretty neat project called Deal Radar , basically teaching a
 - **LinkedIn**: [Connect with me here](https://www.linkedin.com/in/tushar-mishra-7960b722b)
 - **Portfolio**: [Check out my work](https://www.menacehecker.com)
 
-Always cooking up something new. If you've got a wild project idea or just want to chat about why JavaScript is simultaneously the best and worst thing ever invented, hit me up! 🚀
+Always cooking up something new. If you've got a wild project idea or just want to chat about why JavaScript is simultaneously the best and worst thing ever invented, hit me up! 🐱‍💻

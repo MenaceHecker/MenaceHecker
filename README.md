@@ -1,6 +1,6 @@
 # Hey there!  I'm Tushar
 
-CS student at UGA who's obsessed with making computers do cool stuff (especially the AI kind). When I'm not debugging at 2 AM or trying to explain to my code why it's not working, you'll find me diving deep into machine learning rabbit holes.
+CS student at UGA who's obsessed with making computers do cool stuff (especially the AI kind). When I'm not debugging at 2 AM or trying to come up with random stupid ideas, I am probably thinking how AI is taking over the world 
 
 ## What I'm up to these days
 

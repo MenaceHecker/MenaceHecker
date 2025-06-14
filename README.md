@@ -11,7 +11,7 @@ I'm wrapping up my Computer Science degree at the University of Georgia this Aug
 ## The stuff that gets me excited
 
 I'm that person who genuinely finds joy in:
-- Building AI models that actually work (revolutionary, I know)
+- Building AI models that actually work (pretty revolutionary right? I know)
 - Making slow systems fast and fast systems faster
 - Wrestling with cloud infrastructure until it behaves
 - Creating full-stack applications that don't fall apart when someone clicks a button

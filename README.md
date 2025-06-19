@@ -1,6 +1,6 @@
 # Hey there!  I'm Tushar
 
-CS student at UGA who's obsessed with making computers do cool stuff (especially the AI kind). When I'm not debugging at 2 AM or trying to come up with random stupid ideas, I am probably thinking how AI is taking over the world 
+CS student at UGA who's obsessed with making computers do cool stuff (especially the AI kind). When I'm not debugging at 2 AM or trying to come up with random, stupid ideas, I am probably thinking about how AI is taking over the world 
 
 ## What I'm up to these days
 
@@ -18,7 +18,7 @@ I'm that person who genuinely finds joy in:
 
 ## Current side quest: Deal Radar 
 
-I'm working on this pretty neat project called Deal Radar, basically teaching a program to be better at finding deals than your aunt who somehow always knows about every sale. It crawls through Amazon, Walmart, and other sites to hunt down the best deals so you don't have to refresh 47 browser tabs. Also a secret project ( not of national importance)  that I would love talking about but only on LinkedIn or Discord 
+I'm working on this pretty neat project called Deal Radar, basically teaching a program to be better at finding deals than your aunt who somehow always knows about every sale. It crawls through Amazon, Walmart, and other sites to hunt down the best deals so you don't have to refresh 47 browser tabs. Also a secret project ( not of national importance)  that I would love talking about but only on LinkedIn or Discord, I would really appreciate feedback on it 
 
 ## Let's build something awesome together
 

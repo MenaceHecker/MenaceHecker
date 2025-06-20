@@ -11,18 +11,18 @@ I'm wrapping up my Computer Science degree at the University of Georgia this Aug
 ## The stuff that gets me excited
 
 I'm that person who genuinely finds joy in:
-- Building AI models that actually work (pretty revolutionary right? I know)
+- Building AI models that actually work (pretty revolutionary,right? I know)
 - Making slow systems fast and fast systems faster
 - Wrestling with cloud infrastructure until it behaves
 - Creating full-stack applications that don't fall apart when someone clicks a button
 
 ## Current side quest: Deal Radar 
 
-I'm working on this pretty neat project called Deal Radar, basically teaching a program to be better at finding deals than your aunt who somehow always knows about every sale. It crawls through Amazon, Walmart, and other sites to hunt down the best deals so you don't have to refresh 47 browser tabs. Also a secret project ( not of national importance)  that I would love talking about but only on LinkedIn or Discord, I would really appreciate feedback on it 
+I'm working on this pretty neat project called Deal Radar, basically teaching a program to be better at finding deals than your aunt who somehow always knows about every sale. It crawls through Amazon, Walmart, and other sites to hunt down the best deals so you don't have to refresh 47 browser tabs. Also, a secret project ( not of national importance)  that I would love to talk about, but only on LinkedIn or Discord, I would really appreciate feedback on it 
 
 ## Let's build something awesome together
 
 - **LinkedIn**: [Connect with me here](https://www.linkedin.com/in/tushar-mishra-7960b722b)
 - **Portfolio**: [Check out my work](https://www.menacehecker.com)
 
-Always cooking up something new. If you've got a wild project idea or just want to chat about why JavaScript is simultaneously the best and worst thing ever invented, hit me up! 🐱‍💻
+Always cooking up something new. If you've got a wild project idea or just wanna chat about why JavaScript is simultaneously the best and worst thing ever invented, hit me up! 🐱‍💻

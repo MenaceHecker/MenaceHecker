@@ -6,7 +6,7 @@ CS student at UGA who's obsessed with making computers do cool stuff (especially
 
 Right now I'm on the hunt for Software Engineer opportunities where I can actually put my skills to good use instead of just talking about them in interviews 😅
 
-I'm wrapping up my Computer Science degree at the University of Georgia this August (2025) - majoring in the "let's teach machines to think" specialty, aka AI emphasis.
+I'm wrapping up my Computer Science degree at the University of Georgia this August (2025) - majoring in the "let's teach machines to think or can they?" specialty, aka AI emphasis. 
 
 ## The stuff that gets me excited
 

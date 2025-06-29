@@ -1,6 +1,6 @@
 # Hey there!  I'm Tushar
 
-CS student at UGA who's obsessed with making computers do cool stuff (especially the AI kind). When I'm not debugging at 2 AM or trying to come up with random, stupid ideas, I am probably thinking about how AI is taking over the world 
+CS student (closing in on graduation) at UGA who's obsessed with making computers do cool stuff (especially the AI kind). When I'm not debugging at 2 AM or trying to come up with random, stupid ideas, I am probably thinking about how AI is taking over the world 
 
 ## What I'm up to these days
 

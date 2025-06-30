@@ -18,7 +18,7 @@ I'm that person who genuinely finds joy in:
 
 ## Current side quest: Deal Radar 
 
-I'm working on this pretty neat project called Deal Radar, basically teaching a program to be better at finding deals than your aunt who somehow always knows about every sale. It crawls through Amazon, Walmart, and other sites to hunt down the best deals so you don't have to refresh 47 browser tabs. Also, a secret project ( not of national importance)  that I would love to talk about, but only on LinkedIn or Discord, I would really appreciate feedback on it 
+I'm working on this pretty neat project called Deal Radar, basically teaching a program to be better at finding deals than your aunt who somehow always knows about every sale. I am currently working on making a webpage that displays deals found by the project. It crawls through Amazon, Walmart, and other sites to hunt down the best deals so you don't have to refresh 47 browser tabs. Also, a secret project ( not of national importance)  that I would love to talk about, but only on LinkedIn or Discord, I would really appreciate feedback on it 
 
 ## Let's build something awesome together
 

@@ -16,10 +16,6 @@ I'm that person who genuinely finds joy in:
 - Wrestling with cloud infrastructure until it behaves
 - Creating full-stack applications that don't fall apart when someone clicks a button
 
-## Current side quest: Deal Radar 
-
-I'm working on this pretty neat project called Deal Radar, basically teaching a program to be better at finding deals than your aunt, who somehow always knows about every sale(missing the stats tho) . I am currently working on making a webpage that displays deals found by the project. It crawls through Amazon, Walmart, and other sites to hunt down the best deals so you don't have to refresh 47 browser tabs. Also, a secret project ( not of national importance)  that I would love to talk about, but only on LinkedIn or Discord, I would really appreciate feedback on it 
-
 ## Let's build something awesome together
 
 - **LinkedIn**: [Connect with me here](https://www.linkedin.com/in/tushar-mishra-7960b722b)

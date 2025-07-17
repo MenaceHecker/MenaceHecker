@@ -40,24 +40,33 @@
 
 **📊 GitHub Stats:**
 
-![](https://github-readme-stats.vercel.app/api?username=MenaceHecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MenaceHecker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MenaceHecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MenaceHecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenaceHecker&theme=dark&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenaceHecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
+</div>
 
 ---
 
 **🏆 GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=MenaceHecker&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-**✍️ Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MenaceHecker&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1800" alt="GitHub Trophies" />
+</div>
 
 ---
 
 **🔝 Top Contributed Repo**
-![](https://github-contributor-stats.vercel.app/api?username=MenaceHecker&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MenaceHecker&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=1800" alt="Top Contributed Repo" />
+</div>
 
 ---
 
@@ -78,10 +87,15 @@
 ---
 
 ## 📈 Activity Graph
-[![MenaceHecker's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=react-dark)](https://github.com/MenaceHecker)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=react-dark&cache_seconds=1800" alt="Activity Graph" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MenaceHecker&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=MenaceHecker&icon=0&color=0" alt="Visit Count" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

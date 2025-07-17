@@ -16,7 +16,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mishra-7960b722b) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://www.menacehecker.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Menace25)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your-username) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/your-username)
 
 ---
 
@@ -39,14 +40,14 @@
 
 **📊 GitHub Stats:**
 
-![](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MenaceHecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MenaceHecker&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MenaceHecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 **🏆 GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MenaceHecker&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -56,7 +57,7 @@
 ---
 
 **🔝 Top Contributed Repo**
-![](https://github-contributor-stats.vercel.app/api?username=your-username&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MenaceHecker&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -77,10 +78,10 @@
 ---
 
 ## 📈 Activity Graph
-[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)](https://github.com/your-username)
+[![MenaceHecker's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=react-dark)](https://github.com/MenaceHecker)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=your-username&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MenaceHecker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

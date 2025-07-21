@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Tushar
 
 **💫 About Me:**
-- 🎓 CS student at UGA (graduating August 2025) with AI emphasis
+- 🎓 CS student at UGA (graduating July 2025) with AI emphasis
 - 🔭 I'm currently hunting for Software Engineer opportunities
 - 💻 I'm obsessed with making computers do cool stuff (especially the AI kind)
 - 🤖 I'm looking to collaborate on AI projects and full-stack applications

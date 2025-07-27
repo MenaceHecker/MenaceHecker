@@ -68,14 +68,6 @@
 
 ---
 
-**📊 GitHub Stats:**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MenaceHecker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="GitHub Stats" />
-</div>
-
----
-
 **🏆 GitHub Trophies**
 
 <div align="center">

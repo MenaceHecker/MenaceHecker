@@ -2,7 +2,7 @@
 
 **💫 About Me:**
 - 🎓 CS grad from UGA with AI concentration 
-- 🔭 I'm currently hunting for Software Engineer opportunities
+- 🔭 I'm currently hunting for Software Engineer opportunities (mostly new grad) 
 - 💻 I'm obsessed with making computers do cool stuff (especially the AI kind)
 - 🤖 I'm looking to collaborate on AI projects and full-stack applications
 - ⚒️ I'm passionate about building AI models that actually work and don't break

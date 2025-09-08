@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Tushar
+# Hey there! I'm Tushar
 
 **💫 About Me:**
 - 🎓 CS grad from UGA with AI concentration 

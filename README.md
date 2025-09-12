@@ -8,7 +8,7 @@
 - ⚒️ I'm passionate about building AI models that actually work and don't break
 - 🏫 Ask me about AI, performance optimization, and cloud infrastructure
 - 📫 How to reach me: [Check my LinkedIn below]
-- ⚡ Fun fact: I debug at 2 AM and think about how AI is taking over the world! (You can check I've made commits at 2 in the morning) 
+- ⚡ Fun fact: I debug at 2 AM and think about how AI is taking over the world! (Got my contribution public) 
 
 ---
 

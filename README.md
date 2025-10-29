@@ -89,7 +89,7 @@
 
 **🎯 Job Hunt Mode**: On the hunt for Software Engineer opportunities where I can actually put my skills to good use instead of just talking about them in interviews 😅
 
-**🎓 The Last Time is Now**: Wrapped up my Computer Science degree at UGA last month - with a concentration in the "let's teach machines to think or can they?" specialty, aka AI emphasis
+**🎓 The Last Time is Now**: Wrapped up my Computer Science degree at UGA in August - with a concentration in the "let's teach machines to think or can they?" specialty, aka AI emphasis
 
 **💡 The stuff that gets me excited:**
 - 🤖 Building AI models that actually work (pretty revolutionary, right?)

@@ -73,7 +73,7 @@
 **🏆 GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MenaceHecker&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1800" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MenaceHecker&v=1" />
 </div>
 
 ---

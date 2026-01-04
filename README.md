@@ -72,9 +72,12 @@
 
 **🏆 GitHub Trophies**
 
-<div align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=MenaceHecker&v=1" />
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=MenaceHecker&theme=flat&no-frame=true&no-bg=true&margin-w=8"
+  />
+</p>
+
 
 ---
 

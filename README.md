@@ -74,7 +74,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.screw-hand.vercel.app/?username=MenaceHecker&theme=flat&no-frame=true&no-bg=true&margin-w=8"
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=MenaceHecker&theme=flat&no-frame=true&column=4&title=Stars,Followers,Commits,Repositories"
   />
 </p>
 

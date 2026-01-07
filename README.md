@@ -2,13 +2,13 @@
 
 **💫 About Me:**
 - 🎓 CS grad from UGA with AI concentration 
-- 🔭 I'm currently hunting for Software Engineer opportunities (mostly new grad) 
-- 💻 I'm obsessed with making computers do cool stuff (especially the AI kind)
-- 🤖 I'm looking to collaborate on AI projects and full-stack applications
-- ⚒️ I'm passionate about building AI models that actually work and don't break
-- 🏫 Ask me about AI, performance optimization, and cloud infrastructure
-- 📫 How to reach me: [Check my LinkedIn below]
-- ⚡ Fun fact: I debug at 2 AM and think about how AI is taking over the world! (Got my contribution public, you can check) 
+- I'm currently hunting for Software Engineer opportunities (mostly new grad) 
+- I'm obsessed with making computers do cool stuff (especially the AI kind)
+- I'm looking to collaborate on AI projects and full-stack applications
+- I'm passionate about building AI models that actually work and don't break
+- Ask me about AI, performance optimization, and cloud infrastructure
+- How to reach me: [Check my LinkedIn below]
+- Fun fact: I debug at 2 AM and think about how AI is taking over the world! (Got my contribution public, you can check) 
 
 ---
 

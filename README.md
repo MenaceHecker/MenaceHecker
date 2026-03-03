@@ -1,7 +1,7 @@
 # Hey there! I'm Tushar
 
 **💫 About Me:**
-- 🎓 CS grad from UGA with AI Area of Emphasis
+- CS grad from UGA with AI Area of Emphasis
 - I'm currently hunting for Software Engineer opportunities (mostly new grad) 
 - I'm looking to collaborate on AI projects and full-stack applications
 - I'm passionate about building AI models that actually work and don't break
@@ -90,7 +90,7 @@
 
 ## 🚀 Current Projects & What Gets Me Excited
 
-**Job Hunt Mode**: On the hunt for Software Engineer opportunities where I can actually put my skills to good use instead of just talking about them in interviews 😅
+**Job Hunt Mode**: On the hunt for Software Engineer opportunities where I can actually put my skills to good use instead of just talking about them in interviews 
 
 **Latest updates**: Wrapped up my Computer Science degree at UGA in August 2025 - with a concentration in the "let's teach machines to think or can they?" specialty, aka AI emphasis
 

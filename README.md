@@ -1,74 +1,47 @@
-# Hey there! I'm Tushar
+# Hi, I'm Tushar 
 
-**💫 About Me:**
-- CS grad from UGA with AI Area of Emphasis
-- I'm currently hunting for Software Engineer opportunities (mostly new grad) 
-- I'm looking to collaborate on AI projects and full-stack applications
-- I'm passionate about building AI models that actually work and don't break
-- Ask me about AI, performance optimization, and cloud infrastructure
-- How to reach me: [Check my LinkedIn below]
-- Fun fact: I often debug at 2 AM and think about how AI is taking over the world! 
----
+CS grad from UGA with an AI emphasis. Finished up in August 2025 and currently looking for new grad SWE roles. If you're hiring or want to build something, feel free to reach out.
 
-**🌐 Socials:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mishra-7960b722b) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://www.menacehecker.com) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/Menace25](https://discord.com/users/Menace25))
+Most of my time goes into AI systems and full-stack apps. I like working on the boring-but-important problems: getting models to actually behave, making slow things fast, and setting up cloud infra that won't page you at 3 AM. (I still end up debugging at 3 AM anyway, just by choice.)
 
 ---
 
-**💻 Tech Stack:**
+## What I'm working on
 
-**Programming Languages:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- 🔍 Job hunting, looking for SWE roles where I can do real work
+- 🤖 Messing around with LLMs and trying to build useful stuff on top of them
+- 🌐 Open to collabs on AI or full-stack projects
 
+---
 
-**Web Technologies:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST%20API-%23FF6B6B.svg?style=for-the-badge&logo=postman&logoColor=white)
+## Tech
+
+**Languages:**
+Java · Python · TypeScript · JavaScript · Kotlin · Swift · C/C++ · SQL · Bash
+
+**Web & backend:**
+React · Next.js · Node.js · Spring Boot · Angular · GraphQL · REST
 
 **Databases:**
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+PostgreSQL · MySQL · MongoDB · Cassandra
 
-**Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+**Cloud & infra:**
+AWS · Azure · Docker · Kubernetes · Terraform
 
-**Tools & Misc:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) 
-![Kibana](https://img.shields.io/badge/kibana-%23005571.svg?style=for-the-badge&logo=kibana&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white) 
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+**Other tools:**
+Git · GitHub Actions · Jenkins · Kafka · RabbitMQ · Elasticsearch · Kibana · Prometheus · Linux
 
 ---
 
-**🏆 GitHub Trophies**
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mishra-7960b722b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://www.menacehecker.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/Menace25)
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img
@@ -76,35 +49,9 @@
   />
 </p>
 
-
 ---
 
-**✍️ Random Dev Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-
-## 🚀 Current Projects & What Gets Me Excited
-
-**Job Hunt Mode**: On the hunt for Software Engineer opportunities where I can actually put my skills to good use instead of just talking about them in interviews 
-
-**Latest updates**: Wrapped up my Computer Science degree at UGA in August 2025 - with a concentration in the "let's teach machines to think or can they?" specialty, aka AI emphasis
-
-**💡 The stuff that gets me excited:**
-- 🤖 Building AI models that actually work (pretty revolutionary, right?)
-- ⚡ Making slow systems fast and fast systems faster
-- ☁️ Wrestling with cloud infrastructure until it behaves
-- 🌐 Creating full-stack applications that don't fall apart when someone clicks a button
-
-**🔥 Always cooking up something new!** If you've got a wild project idea or just wanna chat about why JavaScript is simultaneously the best and worst thing ever invented, hit me up! 🐱‍💻
-
----
-
-## 📈 Activity Graph
+## Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=react-dark&cache_seconds=1800" alt="Activity Graph" />
@@ -112,4 +59,6 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>

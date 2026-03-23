@@ -8,9 +8,9 @@ Most of my time goes into AI systems and full-stack apps. I like working on the 
 
 ## What I'm working on
 
-Job hunting, looking for SWE roles where I can do real work
-Messing around with LLMs and trying to build useful stuff on top of them
-Open to collabs on AI or full-stack projects
+1. Job hunting, looking for SWE roles where I can do real work
+2. Messing around with LLMs and trying to build useful stuff on top of them
+3. Open to collabs on AI or full-stack projects
 
 ---
 

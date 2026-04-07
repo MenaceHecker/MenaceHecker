@@ -2,7 +2,7 @@
 
 CS grad from UGA (AI emphasis). Graduated August 2025. Currently looking for new grad SWE roles.
 
-I build AI systems and full-stack apps, mostly focused on making things actually work in production — not just demos. That usually means dealing with edge cases, performance bottlenecks, and infrastructure that doesn’t fall apart at scale.
+I build AI systems and full-stack apps, mostly focused on making things actually work in production, not just demos. That usually means dealing with edge cases, performance bottlenecks, and infrastructure that doesn’t fall apart at scale.
 
 ---
 

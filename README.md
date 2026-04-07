@@ -1,34 +1,34 @@
 # Hi, I'm Tushar 
 
-CS grad from UGA with an AI emphasis. Finished up in August 2025 and currently looking for new grad SWE roles. If you're hiring or want to build something, feel free to reach out.
+CS grad from UGA (AI emphasis). Graduated August 2025. Currently looking for new grad SWE roles.
 
-Most of my time goes into AI systems and full-stack apps. I like working on the boring-but-important problems: getting models to actually behave, making slow things fast, and setting up cloud infra that won't page you at 3 AM. (I still end up debugging at 3 AM anyway, just by choice.)
+I build AI systems and full-stack apps, mostly focused on making things actually work in production — not just demos. That usually means dealing with edge cases, performance bottlenecks, and infrastructure that doesn’t fall apart at scale.
 
 ---
 
 ## What I'm working on
 
-1. Job hunting, looking for SWE roles where I can do real work
-2. Messing around with LLMs and trying to build useful stuff on top of them
-3. Open to collabs on AI or full-stack projects
+- Actively applying for SWE roles (backend / platform / AI-focused)
+- Building LLM-powered tools that solve real workflows
+- Open to collaborations on AI or full-stack projects
 
 ---
 
 ## Tech
 
-**Languages:**
+**Languages**  
 Java · Python · TypeScript · JavaScript · Kotlin · Swift · C/C++ · SQL · Bash
 
-**Web & backend:**
-React · Next.js · Node.js · Spring Boot · Angular · GraphQL · REST
+**Backend & Web**  
+React · Next.js · Node.js · Spring Boot · GraphQL · REST APIs
 
-**Databases:**
+**Databases**  
 PostgreSQL · MySQL · MongoDB · Cassandra
 
-**Cloud & infra:**
+**Cloud & Infrastructure**  
 AWS · Azure · Docker · Kubernetes · Terraform
 
-**Other tools:**
+**Tools & Systems**  
 Git · GitHub Actions · Jenkins · Kafka · RabbitMQ · Elasticsearch · Kibana · Prometheus · Linux
 
 ---
@@ -47,6 +47,15 @@ Git · GitHub Actions · Jenkins · Kafka · RabbitMQ · Elasticsearch · Kibana
   <img
     src="https://github-profile-trophy.screw-hand.vercel.app/?username=MenaceHecker&theme=flat&no-frame=true&column=4&title=Stars,Followers,Commits,Repositories"
   />
+</p>
+
+---
+
+## Arcane Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenaceHecker&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

@@ -1,4 +1,4 @@
-# hey, i'm Tushar
+# Hey, I'm Tushar
 
 CS grad from UGA (AI emphasis). I build backend systems, distributed infrastructure, and AI tooling that works outside of demo environments. Most projects end up involving latency tradeoffs, Kafka, and at least one database decision I'll question later.
 
@@ -6,15 +6,15 @@ Looking for new grad **SWE roles** in backend, platform, or AI-focused teams.
 
 ---
 
-## what i'm up to
+## What I'm up to
 
-- actively applying for new grad roles
-- building LLM-powered tools that fit into real workflows
-- open to collabs on AI or full-stack projects
+- Actively applying for new grad roles
+- Building LLM-powered tools for real workflows
+- Open to collabs on AI or full-stack projects
 
 ---
 
-## stack
+## Stack
 
 **Languages**
 `Java` `Python` `TypeScript` `JavaScript` `Kotlin` `Swift` `C/C++` `SQL` `Bash`
@@ -33,7 +33,7 @@ Looking for new grad **SWE roles** in backend, platform, or AI-focused teams.
 
 ---
 
-## find me
+## Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mishra-7960b722b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://www.tushar25.com)
@@ -41,32 +41,27 @@ Looking for new grad **SWE roles** in backend, platform, or AI-focused teams.
 
 ---
 
-## github stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MenaceHecker&theme=flat&no-frame=true&column=4&title=Stars,Followers,Commits,Repositories" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=MenaceHecker&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="github stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=MenaceHecker&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenaceHecker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenaceHecker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-## activity
+## Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=react-dark&hide_border=true&cache_seconds=1800" alt="activity graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>

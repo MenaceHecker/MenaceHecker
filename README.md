@@ -3,33 +3,35 @@
 CS grad from UGA (AI emphasis). Graduated August 2025.  
 Currently looking for new grad Software Engineer roles.
 
-I like building systems that actually run in production, not just demos.  
-That usually means handling edge cases, performance bottlenecks, and infrastructure that stays reliable under load.
+I like building systems that actually run in production — not just demos.  
+That usually means dealing with messy edge cases, scaling issues, and infra that behaves under pressure.
 
 ---
 
-## What I'm working on
-- Applying for backend / platform / AI-focused SWE roles
+## What I'm doing right now
+- Applying to backend / platform / AI-focused SWE roles
 - Building LLM-powered tools that solve real workflows
-- Open to collaborations on AI or full-stack projects
+- Exploring system design + distributed systems deeper
+- Open to collaborations (especially AI + infra-heavy projects)
 
 ---
 
-## Tech
+## Tech I work with
+
 **Languages**  
-Java · Python · TypeScript · JavaScript · Kotlin · Swift · C/C++ · SQL · Bash
+Java · Python · TypeScript · JavaScript · Kotlin · Swift · C/C++ · SQL · Bash  
 
 **Backend & Web**  
-React · Next.js · Node.js · Spring Boot · GraphQL · REST APIs
+React · Next.js · Node.js · Spring Boot · GraphQL · REST APIs  
 
 **Databases**  
-PostgreSQL · MySQL · MongoDB · Cassandra
+PostgreSQL · MySQL · MongoDB · Cassandra  
 
 **Cloud & Infrastructure**  
-AWS · Azure · Docker · Kubernetes · Terraform
+AWS · Azure · Docker · Kubernetes · Terraform  
 
-**Tools & Systems**  
-Git · GitHub Actions · Jenkins · Kafka · RabbitMQ · Elasticsearch · Kibana · Prometheus · Linux
+**Systems / Tooling**  
+Git · GitHub Actions · Jenkins · Kafka · RabbitMQ · Elasticsearch · Kibana · Prometheus · Linux  
 
 ---
 
@@ -42,19 +44,30 @@ Git · GitHub Actions · Jenkins · Kafka · RabbitMQ · Elasticsearch · Kibana
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MenaceHecker&theme=flat&no-frame=true&column=4&title=Stars,Followers,Commits,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MenaceHecker&theme=flat&no-frame=true&column=4&title=Stars,Followers,Commits,Repositories&v=1" />
 </p>
 
 ---
 
-## Activity Snapshot
+## Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MenaceHecker&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=MenaceHecker&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MenaceHecker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-## Contribution Graph
+## Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=react-dark&cache_seconds=86400" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=react-dark&cache_seconds=86400&v=1" />
+</div>
+
+---
+
+## A random thought
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>

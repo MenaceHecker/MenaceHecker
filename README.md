@@ -26,7 +26,7 @@ React · Next.js · Node.js · Spring Boot · GraphQL · REST APIs
 PostgreSQL · MySQL · MongoDB · Cassandra
 
 **Cloud & Infrastructure**  
-AWS · Azure · Docker · Kubernetes · Terraform
+AWS · Azure · GCP · Docker · Kubernetes · Terraform
 
 **Tools & Systems**  
 Git · GitHub Actions · Jenkins · Kafka · RabbitMQ · Elasticsearch · Kibana · Prometheus · Linux

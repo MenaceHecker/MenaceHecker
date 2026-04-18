@@ -1,54 +1,139 @@
-# Hi, I'm Tushar
-
-CS grad from UGA (AI emphasis). Graduated August 2025.  
-Currently looking for new grad Software Engineer roles.
-
-I like building systems that actually run in production, not just demos.  
-That usually means handling edge cases, performance bottlenecks, and infrastructure that stays reliable under load.
-
----
-
-## What I'm working on
-- Applying for backend / platform / AI-focused SWE roles
-- Building LLM-powered tools that solve real workflows
-- Open to collaborations on AI or full-stack projects
-
----
-
-## Tech
-**Languages**  
-Java · Python · TypeScript · JavaScript · Kotlin · Swift · C/C++ · SQL · Bash
-
-**Backend & Web**  
-React · Next.js · Node.js · Spring Boot · GraphQL · REST APIs
-
-**Databases**  
-PostgreSQL · MySQL · MongoDB · Cassandra
-
-**Cloud & Infrastructure**  
-AWS · Azure · GCP · Docker · Kubernetes · Terraform
-
-**Tools & Systems**  
-Git · GitHub Actions · Jenkins · Kafka · RabbitMQ · Elasticsearch · Kibana · Prometheus · Linux
-
----
-
-## Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mishra-7960b722b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://www.tushar25.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/Menace25)
-
----
-
-
-## Activity Snapshot
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MenaceHecker&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=react-dark&cache_seconds=86400" alt="Activity Graph" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tushar%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20UGA%20CS%20%2725&descAlignY=58&descSize=18&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+systems+that+hold+up+in+production.;Backend+%7C+Platform+%7C+AI-focused+SWE+roles.;Distributed+systems%2C+cloud-native%2C+observability.;Open+to+collabs+on+AI+%26+full-stack+projects.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+## About me
+
+CS grad from UGA (AI emphasis), graduated August 2025. I build backend systems and AI tooling that works outside of demo environments. Most projects end up involving latency tradeoffs, Kafka, and at least one database decision I'll revisit later.
+
+Currently open to new grad **SWE roles** — backend, platform, or AI-focused teams in the US.
+
+- Applying for backend / platform / AI-focused roles
+- Building LLM-powered tools for real workflows  
+- Open to collabs on AI or full-stack projects
+
+</td>
+<td valign="top" width="45%">
+
+## Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mishra-7960b722b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.tushar25.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Menace25)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MenaceHecker&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Backend & Web**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Observability & Messaging**
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
+<img src="https://streak-stats.demolab.com/?user=MenaceHecker&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MenaceHecker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+
 </div>

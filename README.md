@@ -23,7 +23,7 @@ CS grad from UGA (AI emphasis), graduated August 2025. I build backend systems a
 Currently open to new grad **SWE roles** — backend, platform, or AI-focused teams in the US.
 
 - Applying for backend / platform / AI-focused roles
-- Building LLM-powered tools for real workflows  
+- Building LLM-powered tools for real workflows
 - Open to collabs on AI or full-stack projects
 
 </td>
@@ -37,7 +37,7 @@ Currently open to new grad **SWE roles** — backend, platform, or AI-focused te
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MenaceHecker&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+> "First, solve the problem. Then, write the code." — John Johnson
 
 </td>
 </tr>
@@ -129,6 +129,28 @@ Currently open to new grad **SWE roles** — backend, platform, or AI-focused te
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
+
+---
+
+## Fun stuff
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+
+</div>
+
+<details>
+<summary><b>A few things about me outside the terminal</b></summary>
+<br>
+
+- I have strong opinions about tab width (4 spaces, non-negotiable)
+- My debugging process is 10% logic and 90% staring at the same line until something clicks
+- I once spent 3 hours tracking down a bug that turned out to be a timezone issue
+- Currently building AI tools I actually want to exist
+- The Kafka cluster never goes down. The Kafka cluster is fine.
+
+</details>
 
 ---
 

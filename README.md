@@ -20,7 +20,7 @@
 
 CS grad from UGA (AI emphasis), graduated August 2025. I build backend systems and AI tooling that works outside of demo environments. Most projects end up involving latency tradeoffs, Kafka, and at least one database decision I'll revisit later.
 
-Currently open to new grad **SWE roles** — backend, platform, or AI-focused teams in the US.
+Currently open to new grad **SWE roles** - backend, platform, or AI-focused teams in the US.
 
 - Applying for backend / platform / AI-focused roles
 - Building LLM-powered tools for real workflows

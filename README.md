@@ -37,7 +37,7 @@ Currently open to new grad **SWE roles** - backend, platform, or AI-focused team
 
 <br>
 
-> "First, solve the problem. Then, write the code." — John Johnson
+> "First, solve the problem. Then, write the code." - John Johnson
 
 </td>
 </tr>

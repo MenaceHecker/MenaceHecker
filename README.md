@@ -142,7 +142,7 @@ Currently open to new grad **SWE roles** - backend, platform, or AI-focused team
 </div>
 
 <details>
-<summary><b>A few things about me outside the terminal</b></summary>
+<summary><b>Other fun things about me outside the terminal</b></summary>
 <br>
 
 - I have strong opinions about tab width (4 spaces, non-negotiable)

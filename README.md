@@ -115,12 +115,6 @@ Currently open to new grad **SWE roles** - backend, platform, or AI-focused team
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MenaceHecker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
-
-</div>
-
 ---
 
 ## Activity

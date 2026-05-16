@@ -107,23 +107,19 @@ Currently open to new grad **SWE roles** - backend, platform, or AI-focused team
 
 ## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=MenaceHecker&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MenaceHecker&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
-## Activity Graph
+## Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ## Fun stuff
 

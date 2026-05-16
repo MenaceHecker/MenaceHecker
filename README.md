@@ -109,7 +109,7 @@ Currently open to new grad **SWE roles** - backend, platform, or AI-focused team
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=MenaceHecker&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 
@@ -117,15 +117,13 @@ Currently open to new grad **SWE roles** - backend, platform, or AI-focused team
 
 ---
 
-## Activity
+## Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
----
 
 ## Fun stuff
 

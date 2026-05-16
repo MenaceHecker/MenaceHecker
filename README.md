@@ -105,15 +105,13 @@ Currently open to new grad **SWE roles** - backend, platform, or AI-focused team
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MenaceHecker&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=MenaceHecker&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## Contribution Graph
 

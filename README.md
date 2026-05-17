@@ -20,7 +20,7 @@
 
 CS grad from UGA (AI emphasis), graduated August 2025. I build backend systems and AI tooling that works outside of demo environments. Most projects end up involving latency tradeoffs, Kafka, and at least one database decision I'll revisit later.
 
-Currently open to new grad **SWE roles** - backend, platform, or AI-focused teams. 
+Currently open to new grad **SWE roles** — backend, platform, or AI-focused teams.
 
 - Applying for backend / platform / AI-focused roles
 - Building LLM-powered tools for real workflows
@@ -37,7 +37,7 @@ Currently open to new grad **SWE roles** - backend, platform, or AI-focused team
 
 <br>
 
-> "First, solve the problem. Then, write the code." - John Johnson
+> "First, solve the problem. Then, write the code." — John Johnson
 
 </td>
 </tr>
@@ -108,9 +108,12 @@ Currently open to new grad **SWE roles** - backend, platform, or AI-focused team
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  
+  <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=MenaceHecker&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api/top-langs/?username=MenaceHecker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ## Contribution Graph
@@ -118,6 +121,8 @@ Currently open to new grad **SWE roles** - backend, platform, or AI-focused team
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
+---
 
 ## Fun stuff
 

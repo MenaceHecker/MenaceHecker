@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+systems+that+hold+up+in+production.;Backend+%7C+Distributed+Systems+%7C+Cloud.;Kafka%2C+Kubernetes%2C+observability.;AI-powered+tools+for+real+workflows.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+systems+that+hold+up+in+production.;Backend+%7C+Distributed+Systems+%7C+Cloud.;Kafka%2C+Kubernetes%2C+observability.;Building+backend+systems%2C+distributed+services%2C+and+LLM+tooling.)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,9 +18,9 @@
 
 ## About Me
 
-CS graduate from UGA with a focus on AI and backend systems.
+CS graduate from UGA with a focus on backend systems, cloud infrastructure, and AI.
 
-Most of the stuff I build ends up involving distributed systems, messaging queues, cloud infrastructure, observability, or debugging something at 2AM that worked perfectly five minutes earlier.
+Most projects I build end up involving distributed systems, messaging queues, observability, infrastructure debugging, or trying to figure out why something that worked 10 minutes ago suddenly stopped working.
 
 Currently looking for:
 - Backend SWE roles
@@ -51,22 +51,13 @@ Currently looking for:
 
 ## Certifications
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.credly.com/badges/bbb81f79-890f-4fc5-8a1c-d06726164af1/public_url">
-  <img src="https://images.credly.com/size/220x220/images/0e8a9587-4a14-4667-b8c0-76b8d2f6be16/image.png" width="120" alt="AWS Solutions Architect Associate Badge"/>
-</a>
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/bbb81f79-890f-4fc5-8a1c-d06726164af1/public_url)
 
-<a href="https://www.credly.com/badges/e5a7f28c-2784-4f2e-a9eb-38a5e862d442/public_url">
-  <img src="https://images.credly.com/size/220x220/images/684f1e3c-ff42-4e4d-baf3-9b7f70b4c0ec/image.png" width="120" alt="AWS Cloud Practitioner Badge"/>
-</a>
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e5a7f28c-2784-4f2e-a9eb-38a5e862d442/public_url)
 
-</p>
-
-<p align="center">
-<b>AWS Certified Solutions Architect – Associate</b><br>
-<b>AWS Certified Cloud Practitioner</b>
-</p>
+</div>
 
 ---
 
@@ -86,6 +77,7 @@ Currently looking for:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
 
@@ -97,6 +89,7 @@ Currently looking for:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -110,9 +103,11 @@ Currently looking for:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 
 </td>
 </tr>
@@ -123,10 +118,10 @@ Currently looking for:
 ## Featured Projects
 
 ### CollegeSeats
-College sports ticket marketplace with interactive seating, Stripe payments, and a cloud-backed backend architecture.
+College sports ticket marketplace with interactive seat selection, Stripe payments, and a cloud-backed backend architecture.
 
 ### AI Workflow Tooling
-LLM-powered tooling focused on retrieval pipelines, automation, and workflow productivity.
+LLM tooling focused on retrieval pipelines, workflow automation, and productivity systems.
 
 ### Distributed Systems Projects
 Projects involving Kafka, observability, containerized deployments, and scalable backend infrastructure.
@@ -151,6 +146,29 @@ Projects involving Kafka, observability, containerized deployments, and scalable
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
+---
+
+## Fun Stuff
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+
+</div>
+
+<details>
+<summary><b>Other things about me outside the terminal</b></summary>
+
+<br>
+
+- Strong opinions about tab width
+- Debugging usually starts with logic and ends with staring at logs for 40 minutes
+- I once spent 3 hours debugging a timezone issue
+- Most side projects eventually turn into infrastructure projects
+- The Kafka cluster is fine
+
+</details>
 
 ---
 

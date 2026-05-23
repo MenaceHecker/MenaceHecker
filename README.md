@@ -115,19 +115,6 @@ Currently looking for:
 
 ---
 
-## Featured Projects
-
-### CollegeSeats
-College sports ticket marketplace with interactive seat selection, Stripe payments, and a cloud-backed backend architecture.
-
-### AI Workflow Tooling
-LLM tooling focused on retrieval pipelines, workflow automation, and productivity systems.
-
-### Distributed Systems Projects
-Projects involving Kafka, observability, containerized deployments, and scalable backend infrastructure.
-
----
-
 ## GitHub Stats
 
 <p align="center">

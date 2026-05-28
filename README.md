@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+systems+that+hold+up+in+production.;Backend+%7C+Distributed+Systems+%7C+Cloud.;Kafka%2C+Kubernetes%2C+observability.;Building+backend+systems%2C+distributed+services%2C+and+LLM+tooling.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+systems+that+hold+up+in+production.;Backend+%7C+Distributed+Systems+%7C+Cloud.;Kafka%2C+Kubernetes%2C+observability.;Backend+systems%2C+distributed+services%2C+and+LLM+tooling.)](https://git.io/typing-svg)
 
 </div>
 

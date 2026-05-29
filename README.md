@@ -122,10 +122,6 @@ Currently looking for:
   <img width="49%" src="https://streak-stats.demolab.com?user=MenaceHecker&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api/top-langs/?username=MenaceHecker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
 ---
 
 ## Contribution Graph

@@ -18,7 +18,7 @@
 
 ## About Me
 
-CS graduate from UGA with a focus on backend systems, cloud infrastructure, and AI.
+CS graduate from UGA with a focus on distributed backend systems, cloud infrastructure, and AI.
 
 Most projects I build end up involving distributed systems, messaging queues, observability, infrastructure debugging, or trying to figure out why something that worked 10 minutes ago suddenly stopped working.
 

@@ -1,59 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tushar%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20%7C%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tushar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Infrastructure&descAlignY=60&descSize=18&animation=fadeIn" />
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+systems+that+hold+up+in+production.;Backend+%7C+Distributed+Systems+%7C+Cloud.;Kafka%2C+Kubernetes%2C+observability.;Backend+systems%2C+distributed+services%2C+and+LLM+tooling.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+systems+that+survive+production.;Distributed+Systems+%7C+Cloud+Infrastructure.;Kafka+%7C+Kubernetes+%7C+Observability.;Backend+Engineering+%7C+Platform+Engineering.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+# About Me
 
-## About Me
+Backend engineer with interests in distributed systems, cloud infrastructure, platform engineering, and AI-powered applications.
 
-CS graduate from UGA with a focus on distributed backend systems, cloud infrastructure, and AI.
-
-Most projects I build end up involving distributed systems, messaging queues, observability, infrastructure debugging, or trying to figure out why something that worked 10 minutes ago suddenly stopped working.
-
-Currently looking for:
-- Backend SWE roles
-- Platform / infrastructure roles
-- AI-focused engineering roles
-
-</td>
-
-<td valign="top" width="45%">
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mishra-7960b722b)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.tushar25.com)
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Menace25)
-
-<br>
-
-> "First, solve the problem. Then, write the code."
-
-</td>
-</tr>
-</table>
+I enjoy building reliable systems, debugging production issues, automating infrastructure, and understanding how software behaves under real-world conditions. Most of my work revolves around backend services, cloud platforms, observability, messaging systems, and scalable architectures.
 
 ---
 
-## Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
+# Tech Stack
 
 ### Languages
 
@@ -67,11 +30,7 @@ Currently looking for:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-</td>
-
-<td valign="top" width="33%">
-
-### Backend & Infra
+### Backend & Infrastructure
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -82,11 +41,7 @@ Currently looking for:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-</td>
-
-<td valign="top" width="33%">
-
-### Data & Messaging
+### Data, Messaging & Observability
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -95,41 +50,64 @@ Currently looking for:
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-
-</td>
-</tr>
-</table>
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-## GitHub Stats
+# Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mishra-7960b722b)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.tushar25.com)
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Menace25)
+
+</div>
+
+---
+
+# GitHub Activity
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=MenaceHecker&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api/top-langs/?username=MenaceHecker&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MenaceHecker&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
 ---
 
-## Fun Stuff
+# Philosophy
 
-<div align="center">
+> Build systems that are observable.
+>
+> Build systems that fail gracefully.
+>
+> Build systems that can be reproduced from scratch.
+>
+> Build systems that someone else can operate at 2 AM.
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
-
-</div>
+---
 
 <details>
-<summary><b>Other things about me outside the terminal</b></summary>
+<summary><b>Outside the Terminal</b></summary>
 
 <br>
 
-- Strong opinions about tab width
-- Debugging usually starts with logic and ends with staring at logs for 40 minutes
-- I once spent 3 hours debugging a timezone issue
-- Most side projects eventually turn into infrastructure projects
-- The Kafka cluster is fine
+- Strong opinions about logging and monitoring
+- Most side projects eventually become infrastructure projects
+- Debugging usually starts with code and ends with logs
+- I once spent hours tracking a timezone bug
+- The Kafka cluster is probably fine
 
 </details>
 
@@ -137,6 +115,6 @@ Currently looking for:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>

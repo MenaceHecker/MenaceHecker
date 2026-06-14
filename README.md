@@ -72,12 +72,7 @@ I enjoy building reliable systems, debugging production issues, automating infra
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=MenaceHecker&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api/top-langs/?username=MenaceHecker&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MenaceHecker&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MenaceHecker&theme=tokyonight" />
 </p>
 
 <p align="center">

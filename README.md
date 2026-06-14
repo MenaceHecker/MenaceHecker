@@ -49,18 +49,6 @@ Currently looking for:
 
 ---
 
-## Certifications
-
-<div align="center">
-
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/bbb81f79-890f-4fc5-8a1c-d06726164af1/public_url)
-
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/e5a7f28c-2784-4f2e-a9eb-38a5e862d442/public_url)
-
-</div>
-
----
-
 ## Stack
 
 <table>
@@ -120,14 +108,6 @@ Currently looking for:
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=MenaceHecker&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---

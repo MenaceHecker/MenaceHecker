@@ -85,7 +85,7 @@ I enjoy building reliable systems, debugging production issues, automating infra
 
 > Build systems that are observable.
 >
-> Build systems that fail gracefully.
+> Build systems that fail gracefully not embarrasingly. 
 >
 > Build systems that can be reproduced from scratch.
 >

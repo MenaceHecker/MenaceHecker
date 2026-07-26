@@ -1,24 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tushar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Infrastructure&descAlignY=60&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tushar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%2FML%20Infrastructure&descAlignY=60&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+systems+that+survive+production.;Distributed+Systems+%7C+Cloud+Infrastructure.;Kafka+%7C+Kubernetes+%7C+Observability.;Backend+Engineering+%7C+Platform+Engineering.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+systems+that+survive+production.;Kubernetes+%7C+Kafka+%7C+GCP+%7C+Observability.;Bridging+backend+engineering+and+applied+AI.;Currently%3A+Software+Engineer+%40+EBB+Lab%2C+Georgia+Tech.)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/tushar-mishra-7960b722b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.tushar25.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://discord.com/users/Menace25"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
 
 ---
 
-# About Me
+### About Me
 
-Backend engineer with interests in distributed systems, cloud infrastructure, platform engineering, and AI-powered applications.
+I'm a backend engineer working at the EBB Lab at Georgia Tech, where I build platform automation and distributed infrastructure. My background is in computer science with an AI emphasis from the University of Georgia, and most of my work sits at the intersection of the two: systems that are fast and reliable on the backend, with an ML-aware layer on top.
 
-I enjoy building reliable systems, debugging production issues, automating infrastructure, and understanding how software behaves under real-world conditions. Most of my work revolves around backend services, cloud platforms, observability, messaging systems, and scalable architectures.
+I like the unglamorous parts of engineering just as much as the exciting parts. Debugging a flaky service in production, writing a Terraform module that makes deployment boring, reading logs at 11pm to find a timezone bug. If a system needs to be observable, reproducible, and operable by someone other than me, that's the kind of problem I want to work on.
+
+Certified in AWS Solutions Architect Associate, AWS Cloud Practitioner, and Azure AZ-900.
 
 ---
 
-# Tech Stack
+### Featured Project: InferGrid
 
-### Languages
+A production-grade distributed ML inference platform built on GCP, designed to bridge backend engineering and applied AI in one system.
+
+- Kubernetes-based autoscaling for inference workloads
+- A/B model routing between DistilBERT and a scikit-learn baseline
+- Kafka-backed async request queue
+- Drift detection on live traffic
+- Sub-100ms p95 latency at 500+ requests per minute
+
+Live demo dashboard built in React and deployed on Vercel, talking to the GCP backend in real time.
+
+---
+
+### Other Projects
+
+**AtlasFlow** — event-driven backend built on DynamoDB and SQS, focused on decoupled, asynchronous processing.
+
+**Nexus** — a distributed observability platform for tracing and monitoring service health across a cluster.
+
+**Procuroid** — a multi-agent procurement system that won an Honorable Mention at AI ATL 2025 on the Google Cloud track.
+
+**FraudSense** — fraud detection using graph-structured models to catch patterns that flat tabular data misses.
+
+**PixelVault** — a zero-cost photo archival pipeline that routes iPhone photos through a Vercel relay to an old Pixel XL, giving lifetime unlimited backup through Google Photos. Built with a Next.js backend, a Kotlin Android app, and iOS Shortcuts on the upload side. More of a systems automation project than an AI showcase, but a fun one.
+
+**Mini ML Platform** — a smaller-scale exploration of the same ideas behind InferGrid, used as a proving ground before scaling up.
+
+---
+
+### Tech Stack
+
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -30,7 +66,7 @@ I enjoy building reliable systems, debugging production issues, automating infra
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Backend & Infrastructure
+**Backend, Cloud & Infra**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -40,8 +76,10 @@ I enjoy building reliable systems, debugging production issues, automating infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Data, Messaging & Observability
+**Data, Messaging & Observability**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -54,21 +92,7 @@ I enjoy building reliable systems, debugging production issues, automating infra
 
 ---
 
-# Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-mishra-7960b722b)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.tushar25.com)
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Menace25)
-
-</div>
-
----
-
-# GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -81,15 +105,15 @@ I enjoy building reliable systems, debugging production issues, automating infra
 
 ---
 
-# Philosophy
+### Philosophy
 
 > Build systems that are observable.
 >
-> Build systems that fail gracefully not embarrasingly. 
+> Build systems that fail gracefully, not embarrassingly.
 >
 > Build systems that can be reproduced from scratch.
 >
-> Build systems that someone else can operate at 2 AM.
+> Build systems that someone else can operate at 2am.
 
 ---
 
@@ -98,11 +122,11 @@ I enjoy building reliable systems, debugging production issues, automating infra
 
 <br>
 
-- Strong opinions about logging and monitoring
-- Most side projects eventually become infrastructure projects
-- Debugging usually starts with code and ends with logs
-- I once spent hours tracking a timezone bug
-- The Kafka cluster is probably fine
+- I have strong opinions about logging and monitoring, and I will share them unprompted.
+- Most of my side projects start small and quietly turn into infrastructure projects.
+- Debugging almost always starts in the code and ends in the logs.
+- I once spent an embarrassing number of hours tracking down a timezone bug.
+- The Kafka cluster is probably fine.
 
 </details>
 

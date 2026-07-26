@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tushar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%2FML%20Infrastructure&descAlignY=60&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+systems+that+survive+production.;Kubernetes+%7C+Kafka+%7C+GCP+%7C+Observability.;Bridging+backend+engineering+and+applied+AI.;Currently%3A+Software+Engineer+%40+EBB+Lab%2C+Georgia+Tech.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+systems+that+survive+production.;Kubernetes+%7C+Kafka+%7C+GCP+%7C+Observability.;Bridging+backend+engineering+and+applied+AI.)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/tushar-mishra-7960b722b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.tushar25.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a backend engineer working at the EBB Lab at Georgia Tech, where I build platform automation and distributed infrastructure. My background is in computer science with an AI emphasis from the University of Georgia, and most of my work sits at the intersection of the two: systems that are fast and reliable on the backend, with an ML-aware layer on top.
+I'm a backend engineer with a background in computer science and an AI emphasis from the University of Georgia. Most of my work sits at the intersection of the two: systems that are fast and reliable on the backend, with an ML-aware layer on top.
 
 I like the unglamorous parts of engineering just as much as the exciting parts. Debugging a flaky service in production, writing a Terraform module that makes deployment boring, reading logs at 11pm to find a timezone bug. If a system needs to be observable, reproducible, and operable by someone other than me, that's the kind of problem I want to work on.
 
@@ -38,17 +38,17 @@ Live demo dashboard built in React and deployed on Vercel, talking to the GCP ba
 
 ### Other Projects
 
-**AtlasFlow** — event-driven backend built on DynamoDB and SQS, focused on decoupled, asynchronous processing.
+**AtlasFlow**: event-driven backend built on DynamoDB and SQS, focused on decoupled, asynchronous processing.
 
-**Nexus** — a distributed observability platform for tracing and monitoring service health across a cluster.
+**Nexus**: a distributed observability platform for tracing and monitoring service health across a cluster.
 
-**Procuroid** — a multi-agent procurement system that won an Honorable Mention at AI ATL 2025 on the Google Cloud track.
+**Procuroid**: a multi-agent procurement system that won an Honorable Mention at AI ATL 2025 on the Google Cloud track.
 
-**FraudSense** — fraud detection using graph-structured models to catch patterns that flat tabular data misses.
+**FraudSense**: fraud detection using graph-structured models to catch patterns that flat tabular data misses.
 
-**PixelVault** — a zero-cost photo archival pipeline that routes iPhone photos through a Vercel relay to an old Pixel XL, giving lifetime unlimited backup through Google Photos. Built with a Next.js backend, a Kotlin Android app, and iOS Shortcuts on the upload side. More of a systems automation project than an AI showcase, but a fun one.
+**PixelVault**: a zero-cost photo archival pipeline that routes iPhone photos through a Vercel relay to an old Pixel XL, giving lifetime unlimited backup through Google Photos. Built with a Next.js backend, a Kotlin Android app, and iOS Shortcuts on the upload side. More of a systems automation project than an AI showcase, but a fun one.
 
-**Mini ML Platform** — a smaller-scale exploration of the same ideas behind InferGrid, used as a proving ground before scaling up.
+**Mini ML Platform**: a smaller-scale exploration of the same ideas behind InferGrid, used as a proving ground before scaling up.
 
 ---
 

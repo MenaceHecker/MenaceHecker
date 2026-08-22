@@ -16,7 +16,7 @@
 
 I'm a backend engineer with a background in computer science and an AI emphasis from the University of Georgia. Most of my work sits at the intersection of the two: systems that are both fast and reliable on the backend, with an ML-aware layer on top.
 
-I like the unglamorous parts of engineering just as much as the exciting parts. Debugging a flaky service in production, writing a Terraform module that makes deployment boring, reading logs at 11pm to find a timezone bug. If a system needs to be observable, reproducible, and operable by someone other than me, that's the kind of problem I want to work on.
+I like the super unglamorous parts of engineering just as much as the exciting parts. Debugging a flaky service in production, writing a Terraform module that makes deployment boring, reading logs at 11pm to find a timezone bug. If a system needs to be observable, reproducible, and operable by someone other than me, that's the kind of problem I want to work on.
 
 Certified in AWS Solutions Architect Associate, AWS Cloud Practitioner, and Azure AZ-900.
 

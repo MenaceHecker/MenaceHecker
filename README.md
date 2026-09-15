@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tushar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20AI%2FML%20Infrastructure&descAlignY=60&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B22222,100:1a1a2e&height=220&section=header&text=Tushar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Backend%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+systems+that+survive+production.;Kubernetes+%7C+Kafka+%7C+GCP+%7C+Observability.;Bridging+backend+engineering+and+applied+AI.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E23636&center=true&vCenter=true&width=800&lines=With+great+scale+comes+great+responsibility.;Kubernetes+%7C+Kafka+%7C+GCP+%7C+Observability.;Swinging+between+backend+engineering+and+applied+AI.)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/tushar-mishra-7960b722b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.tushar25.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://www.tushar25.com"><img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 <a href="https://discord.com/users/Menace25"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
 
 ---
 
-### About Me
+### 🕷️ Origin Story
 
-I'm a backend engineer with a background in computer science and an AI emphasis from the University of Georgia. Most of my work sits at the intersection of the two: systems that are both fast and reliable on the backend, with an ML-aware layer on top.
+I'm a backend engineer with a background in computer science and an AI emphasis from the University of Georgia. Most of my work sits at the intersection of the two: systems that are fast and reliable on the backend, with an ML-aware layer swinging on top.
 
-I like the super unglamorous parts of engineering just as much as the exciting parts. Debugging a flaky service in production, writing a Terraform module that makes deployment boring, reading logs at 11pm to find a timezone bug. If a system needs to be observable, reproducible, and operable by someone other than me, that's the kind of problem I want to work on.
+I like the unglamorous parts of the job just as much as the flashy ones. Debugging a flaky service mid-swing, writing a Terraform module that makes deployment boring, reading logs at 11pm to catch a timezone bug before it catches me. If a system needs to be observable, reproducible, and operable by someone other than me, that's the web I want to build.
 
-Certified in AWS Solutions Architect Associate, AWS Cloud Practitioner, and Azure AZ-900.
+🎓 Certified: AWS Solutions Architect Associate · AWS Cloud Practitioner · Azure AZ-900
 
 ---
 
-### Featured Project: InferGrid
+### 🕸️ Signature Web-Shooter: InferGrid
 
-A production-grade distributed ML inference platform built on GCP, designed to bridge backend engineering and applied AI in one system.
+A production-grade distributed ML inference platform built on GCP — the flagship gadget in the utility belt, bridging backend engineering and applied AI in one system.
 
 - Kubernetes-based autoscaling for inference workloads
 - A/B model routing between DistilBERT and a scikit-learn baseline
@@ -32,27 +32,27 @@ A production-grade distributed ML inference platform built on GCP, designed to b
 - Drift detection on live traffic
 - Sub-100ms p95 latency at 500+ requests per minute
 
-Live demo dashboard built in React and deployed on Vercel, talking to the GCP backend in real time.
+Live demo dashboard built in React, deployed on Vercel, talking to the GCP backend in real time.
 
 ---
 
-### Other Projects
+### 🏙️ Other Missions Around Queens
 
-**AtlasFlow**: event-driven backend built on DynamoDB and SQS, focused on decoupled, asynchronous processing.
+**AtlasFlow** — event-driven backend built on DynamoDB and SQS, focused on decoupled, asynchronous processing.
 
-**Nexus**: a distributed observability platform for tracing and monitoring service health across a cluster.
+**Nexus** — a distributed observability platform for tracing and monitoring service health across a cluster.
 
-**Procuroid**: a multi-agent procurement system that won an Honorable Mention at AI ATL 2025 on the Google Cloud track.
+**Procuroid** — a multi-agent procurement system, Honorable Mention at AI ATL 2025 on the Google Cloud track.
 
-**FraudSense**: fraud detection using graph-structured models to catch patterns that flat tabular data misses.
+**FraudSense** — fraud detection using graph-structured models to catch patterns flat tabular data misses.
 
-**PixelVault**: a zero-cost photo archival pipeline that routes iPhone photos through a Vercel relay to an old Pixel XL, giving lifetime unlimited backup through Google Photos. Built with a Next.js backend, a Kotlin Android app, and iOS Shortcuts on the upload side. More of a systems automation project than an AI showcase, but a fun one.
+**PixelVault** — a zero-cost photo archival pipeline routing iPhone photos through a Vercel relay to an old Pixel XL, for lifetime unlimited backup through Google Photos. Next.js backend, Kotlin Android app, iOS Shortcuts on the upload side. More systems automation than AI showcase, but a fun swing.
 
-**Mini ML Platform**: a smaller-scale exploration of the same ideas behind InferGrid, used as a proving ground before scaling up.
+**Mini ML Platform** — a smaller-scale exploration of the ideas behind InferGrid, a proving ground before scaling up.
 
 ---
 
-### Tech Stack
+### 🧰 Utility Belt
 
 **Languages**
 
@@ -92,33 +92,33 @@ Live demo dashboard built in React and deployed on Vercel, talking to the GCP ba
 
 ---
 
-### GitHub Activity
+### 🕸️ Spider-Sense (GitHub Activity)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api?username=MenaceHecker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MenaceHecker&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-eight-wheat-41.vercel.app/api?username=MenaceHecker&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MenaceHecker&theme=dracula" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-### Philosophy
+### 📖 Motto
 
+> With great scale comes great responsibility => for uptime, for logs, and for whoever's on call at 2am.
+>
 > Build systems that are observable.
 >
 > Build systems that fail gracefully, not embarrassingly.
 >
-> Build systems that can be reproduced from scratch.
->
-> Build systems that someone else can operate at 2am.
+> Build systems someone else can swing through without a map.
 
 ---
 
 <details>
-<summary><b>Outside the Terminal</b></summary>
+<summary><b>🎭 Behind the Mask</b></summary>
 
 <br>
 
@@ -134,6 +134,6 @@ Live demo dashboard built in React and deployed on Vercel, talking to the GCP ba
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:B22222,100:8B0000&height=120&section=footer" />
 
 </div>

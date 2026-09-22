@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B22222,100:1a1a2e&height=220&section=header&text=Tushar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%2%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B22222,100:1a1a2e&height=220&section=header&text=Tushar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E23636&center=true&vCenter=true&width=800&lines=With+great+scale+comes+great+responsibility.;Kubernetes%2C+Kafka%2C+GCP%2C+Observability.;Swinging+between+backend+engineering+and+applied+AI.)](https://git.io/typing-svg)
 

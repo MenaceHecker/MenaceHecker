@@ -48,7 +48,7 @@ A live demo dashboard, built in React and deployed on Vercel, talks to the GCP b
 
 **PixelVault**. A zero cost photo archival pipeline that routes iPhone photos through a Vercel relay to an old Pixel XL, unlocking lifetime unlimited backup through Google Photos. Built with a Next.js backend, a Kotlin Android app, and iOS Shortcuts on the upload side. Less of an AI showcase, more of a fun systems automation heist.
 
-**Mini ML Platform**. A smaller scale run at the ideas behind InferGrid, the proving ground before the real thing got built.
+**Mini ML Platform**. A smaller scale run at the same ideas behind InferGrid, the proving ground before the real thing got built.
 
 ---
 

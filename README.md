@@ -44,7 +44,7 @@ A live demo dashboard, built in React and deployed on Vercel, talks to the GCP b
 
 **Procuroid**. A multi agent procurement system that earned an Honorable Mention at AI ATL 2025 on the Google Cloud track.
 
-**FraudSense**. Fraud detection using graph structured models, built to catch the patterns that flat tabular data quietly misses.
+**FraudSense**. A Fraud detection using graph structured models, built to catch the patterns that flat tabular data quietly misses.
 
 **PixelVault**. A zero cost photo archival pipeline that routes iPhone photos through a Vercel relay to an old Pixel XL, unlocking lifetime unlimited backup through Google Photos. Built with a Next.js backend, a Kotlin Android app, and iOS Shortcuts on the upload side. Less of an AI showcase, more of a fun systems automation heist.
 

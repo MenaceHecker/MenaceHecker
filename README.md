@@ -99,10 +99,6 @@ A live demo dashboard, built in React and deployed on Vercel, talks to the GCP b
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MenaceHecker&theme=dracula" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MenaceHecker&theme=react-dark&hide_border=true&area=true" />
-</p>
-
 ---
 
 ### 📖 The Code I Swing By

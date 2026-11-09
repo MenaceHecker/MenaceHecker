@@ -18,7 +18,7 @@ I was bitten by backend engineering somewhere around a computer science degree w
 
 The unglamorous parts of the job are half the appeal. Chasing a flaky service through a stack trace at midnight, writing a Terraform module boring enough that nobody has to think about it again, catching a timezone bug before it catches me. If a system needs to be observable, reproducible, and operable by someone who is not me, that is the exactly kind of web I want to build.
 
-Certifications earned along the way: AWS Solutions Architect Associate, AWS Cloud Practitioner, and Azure AZ-900.
+Certifications earned along the way: AWS Solutions Architect Associate, AWS Cloud Practitioner
 
 ---
 

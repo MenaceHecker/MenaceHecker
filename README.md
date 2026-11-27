@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B22222,100:1a1a2e&height=220&section=header&text=Tushar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:B22222,100:1a1a2e&height=230&section=header&text=Tushar%20Mishra&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E23636&center=true&vCenter=true&width=800&lines=With+great+scale+comes+great+responsibility.;Kubernetes%2C+Kafka%2C+GCP%2C+Observability.;Swinging+between+backend+engineering+and+applied+AI.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E23636&center=true&vCenter=true&width=800&lines=With+great+scale+comes+great+responsibility.;Kubernetes%2C+Kafka%2C+GCP%2C+Observability.;Distributed+systems+%2B+applied+AI+agents.;Swinging+between+backend+and+platform+engineering.)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/tushar-mishra-7960b722b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.tushar25.com"><img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 <a href="https://discord.com/users/Menace25"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+<br/>
+
+![Location](https://img.shields.io/badge/Georgia%2C%20USA-1a1a2e?style=flat-square&logo=googlemaps&logoColor=E23636)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20Platform%20%7C%20Applied%20AI-8B0000?style=flat-square)
+![Degree](https://img.shields.io/badge/B.S.%20CS%20(AI)-University%20of%20Georgia-B22222?style=flat-square)
 
 </div>
 
@@ -14,81 +20,179 @@
 
 ### 🕷️ Radioactive Origin
 
-I was bitten by backend engineering somewhere around a computer science degree with an AI emphasis at the University of Georgia, and I never quite recovered. Most of my work lives at the intersection of the two. Systems that are fast and reliable underneath, with an ML aware layer swinging right on the top.
+I was bitten by backend engineering somewhere around a computer science degree (AI emphasis) at the University of Georgia, and I never quite recovered. Most of my work lives where fast, reliable systems meet an ML-aware layer swinging on top.
 
-The unglamorous parts of the job are half the appeal. Chasing a flaky service through a stack trace at midnight, writing a Terraform module boring enough that nobody has to think about it again, catching a timezone bug before it catches me. If a system needs to be observable, reproducible, and operable by someone who is not me, that is the exactly kind of web I want to build.
+The unglamorous parts are half the appeal: chasing a flaky service through a stack trace at midnight, writing a Terraform module boring enough that nobody has to think about it again, catching a timezone bug before it catches me. If a system is observable, reproducible, and operable by someone who is not me, that is the kind of web I want to build.
 
-Certifications earned along the way: AWS Solutions Architect Associate, AWS Cloud Practitioner
+---
+
+### 🦸 Currently Swinging
+
+| | |
+|---|---|
+| 🎓 **IT Professional Assistant** @ UGA Franklin College OIT | Keeping a university's worth of systems running |
+| 🔬 **Building** | **RaftKV**, a Raft-based distributed key-value store, from scratch in Go |
+| 📜 **Studying** | AWS Solutions Architect Professional |
 
 ---
 
 ### 🧪 The Serum: InferGrid
 
-Every hero has an origin experiment. Mine is InferGrid, a production grade distributed ML inference platform built on GCP. It is the project where backend engineering and applied AI actually fuse into one working system instead of living in separate corners of a portfolio.
+Every hero has an origin experiment. Mine is **InferGrid**, a production-grade distributed ML inference platform on GCP, and the project where backend engineering and applied AI fuse into one working system.
 
-- Kubernetes based autoscaling for inference workloads
-- A/B model routing between DistilBERT and a scikit learn baseline
-- Kafka backed async request queue
-- Drift detection on live traffic
-- Sub 100ms p95 latency at 500 plus requests per minute
+```mermaid
+flowchart LR
+    C([Client]) --> R{A/B Router<br/>hash-based}
+    R -->|variant A| D[DistilBERT<br/>ONNX Runtime]
+    R -->|variant B| S[scikit-learn<br/>baseline]
+    C -.async.-> K[(Kafka Queue)]
+    K --> D
+    D --> W[WebSocket<br/>delivery]
+    R --> P[(PostgreSQL<br/>experiment tracker)]
+    D --> M[Prometheus + Grafana]
+    D --> X[KS-test<br/>drift detector]
+```
 
-A live demo dashboard, built in React and deployed on Vercel, talks to the GCP backend in real time so the whole thing is watchable, not just describable.
+- ⚡ Sub-100ms p95 latency at 500+ requests per minute
+- ☸️ Kubernetes autoscaling for inference workloads
+- 🔀 Deterministic A/B model routing between DistilBERT and a scikit-learn baseline
+- 📨 Kafka-backed async inference queue with WebSocket result delivery
+- 📉 Drift detection on live traffic (KS-test) and Prometheus/Grafana observability
+- 🖥️ React dashboard on Vercel for watching routing, latency, and drift
 
 ---
 
-### 🏙️ Patrols Across the City
+### 🌃 Patrols Across the City
 
-**AtlasFlow**. An event driven backend built on DynamoDB and SQS, tuned for decoupled, asynchronous processing rather than one long synchronous chain.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Nexus**. A distributed observability platform for tracing requests and monitoring service health across a cluster, the kind of tool you build so the next 2am page is shorter.
+#### 🚨 Sentra
+**AI incident-triage copilot.** A tool-calling LLM agent investigates simulated production incidents using read-only diagnostics (logs, metrics, deploys, runbooks) and returns root-cause hypotheses with cited evidence, streamed to a Next.js evidence viewer.
 
-**Procuroid**. A multi agent procurement system that earned an Honorable Mention at AI ATL 2025 on the Google Cloud track.
+- Human approval for restarts/rollbacks enforced in **orchestration code, not the prompt**, with an append-only audit trail
+- **100% root-cause accuracy and valid citations** across 12 live-LLM runs on 6 seeded failure scenarios; 0 approval-gate bypasses
+- 135 automated tests, CI across three services
 
-**FraudSense**. A Fraud detection using graph structured models, built to catch the patterns that flat tabular data quietly misses.
+`Next.js` `FastAPI` `pgvector` `Gemini` `Docker`
 
-**PixelVault**. A zero cost photo archival pipeline that routes iPhone photos through a Vercel relay to an old Pixel XL, unlocking lifetime unlimited backup through Google Photos. Built with a Next.js backend, a Kotlin Android app, and iOS Shortcuts on the upload side. Less of an AI showcase, more of a fun systems automation heist.
+</td>
+<td width="50%" valign="top">
 
-**Mini ML Platform**. A smaller scale run at the same ideas behind InferGrid, the proving ground before the real thing got built.
+#### 🧩 RaftKV *(in progress)*
+**Distributed key-value store implementing Raft from scratch** in Go/gRPC: leader election, log replication, snapshotting, and a write-ahead log with torn-tail repair.
+
+- Fault-injecting filesystem and crash-recovery tests
+- Next up: a chaos-testing harness with a **linearizability verifier**
+- Suite green and clean under Go's `-race` detector
+
+`Go` `gRPC` `Raft` `WAL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 Job Agent *(in design)*
+**Local-first, CLI-driven multi-agent assistant** that detects job postings, researches sponsorship evidence, and tailors resumes truthfully. Human stays in the loop: no auto-submit, no pay-per-token APIs.
+
+`Multi-agent` `CLI` `Codex` `Claude Code`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌊 Clickstream Lake *(in progress)*
+**Serverless AWS data lake** for simulated e-commerce events: S3 tiered storage, Glue ETL to partitioned Parquet, Athena analytics, QuickSight dashboards, with cost guardrails and IaC via CDK.
+
+`S3` `Glue` `Athena` `QuickSight` `CDK`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔭 Nexus & VectorForge
+**Distributed observability.** Nexus traces requests and monitors service health across a cluster, the kind of tool you build so the next 2am page is shorter. VectorForge extends the observability thread.
+
+`Tracing` `Metrics` `Distributed Systems`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏆 Procuroid
+**Multi-agent procurement system.** Honorable Mention at **AI ATL 2025**, Google Cloud track.
+
+`Multi-agent` `Google Cloud`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📬 AtlasFlow
+**Event-driven backend** on DynamoDB and SQS, built for decoupled, asynchronous processing instead of one long synchronous chain.
+
+`DynamoDB` `SQS` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📸 PixelVault
+**Zero-cost photo archival pipeline.** iPhone photos route through a Vercel relay to an old Pixel XL for free, unlimited Google Photos backup. A fun systems-automation heist.
+
+`Next.js` `Kotlin` `iOS Shortcuts`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🕸️ FraudSense
+**Fraud detection with graph-structured models**, built to catch the patterns flat tabular data quietly misses.
+
+`Graph ML` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧪 Mini ML Platform
+A smaller-scale run at the ideas behind InferGrid, the proving ground before the real thing got built.
+
+`MLOps` `Python`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🧰 Utility Belt
 
+<div align="center">
+
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,go,kotlin,swift,cpp,bash&perline=9" />
 
-**Backend, Cloud, and Infra**
+**Backend, Cloud & Infra**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,react,nextjs,graphql,docker,kubernetes,terraform,gcp,aws,azure&perline=12" />
 
-**Data, Messaging, and Observability**
+**Data, Messaging & Observability**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,cassandra,mysql,redis,kafka,rabbitmq,prometheus,grafana&perline=9" />
+
+</div>
+
+---
+
+### 🎖️ Certifications
+
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS SAP](https://img.shields.io/badge/AWS%20SAP-In%20Progress-8B0000?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 

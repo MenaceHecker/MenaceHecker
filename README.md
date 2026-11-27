@@ -37,27 +37,9 @@ The unglamorous parts are half the appeal: chasing a flaky service through a sta
 
 ### 🧪 The Serum: InferGrid
 
-Every hero has an origin experiment. Mine is **InferGrid**, a production-grade distributed ML inference platform on GCP, and the project where backend engineering and applied AI fuse into one working system.
+Every hero has an origin experiment. Mine is **InferGrid**, a production-grade distributed ML inference platform on GCP, and the project where backend engineering and applied AI fuse into one system. Sub-100ms p95 latency at 500+ requests per minute, with A/B model routing and drift detection built in.
 
-```mermaid
-flowchart LR
-    C([Client]) --> R{A/B Router<br/>hash-based}
-    R -->|variant A| D[DistilBERT<br/>ONNX Runtime]
-    R -->|variant B| S[scikit-learn<br/>baseline]
-    C -.async.-> K[(Kafka Queue)]
-    K --> D
-    D --> W[WebSocket<br/>delivery]
-    R --> P[(PostgreSQL<br/>experiment tracker)]
-    D --> M[Prometheus + Grafana]
-    D --> X[KS-test<br/>drift detector]
-```
-
-- ⚡ Sub-100ms p95 latency at 500+ requests per minute
-- ☸️ Kubernetes autoscaling for inference workloads
-- 🔀 Deterministic A/B model routing between DistilBERT and a scikit-learn baseline
-- 📨 Kafka-backed async inference queue with WebSocket result delivery
-- 📉 Drift detection on live traffic (KS-test) and Prometheus/Grafana observability
-- 🖥️ React dashboard on Vercel for watching routing, latency, and drift
+`Kubernetes` `Kafka` `GCP` `Prometheus` `React`
 
 ---
 

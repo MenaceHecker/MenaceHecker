@@ -30,7 +30,6 @@ The unglamorous parts are half the appeal: chasing a flaky service through a sta
 
 | | |
 |---|---|
-| 🎓 **IT Professional Assistant** @ UGA Franklin College OIT | Keeping a university's worth of systems running |
 | 🔬 **Building** | **RaftKV**, a Raft-based distributed key-value store, from scratch in Go |
 | 📜 **Studying** | AWS Solutions Architect Professional |
 
